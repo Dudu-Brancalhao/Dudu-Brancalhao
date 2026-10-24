@@ -2,7 +2,7 @@
 
 <img align="right" src="./assets/me-macbook.png" width="220" alt="Eduardo with a MacBook" />
 
-I'm **Eduardo**, a software engineer from Brazil. Today I work at **Hubib**, mostly on backend systems that move real money.
+Software engineer from Brazil. Today I work at **Hubib**, mostly on backend systems that move real money.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/eduardo-brancalhao/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNC45ODF2Ni4yNzZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
@@ -10,11 +10,11 @@ I'm **Eduardo**, a software engineer from Brazil. Today I work at **Hubib**, mos
   <a href="mailto:duduscala@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Coin.png" width="20" /> Building **crypto wallets** and **prediction markets** with NestJS <br />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Video%20Camera.png" width="20" /> Built a **live traffic prediction market** with computer vision <br />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="20" /> **AI-native**: spec first, then agents, with Claude Code <br />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="20" /> **Security and data integrity first** when money is moving <br />
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" width="20" /> Started in frontend (React, Next.js), now mostly backend
+🪙 Building **crypto wallets** and **prediction markets** with NestJS <br />
+📹 Built a **live traffic prediction market** with computer vision <br />
+👾 **AI-native**: spec first, then agents, with Claude Code <br />
+🔒 **Security and data integrity first** when money is moving <br />
+🌱 Started in frontend (React, Next.js), now mostly backend
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,postgres,prisma,docker,python,react,nextjs,linux&theme=dark" alt="Node.js, NestJS, TypeScript, PostgreSQL, Prisma, Docker, Python, React, Next.js, Linux" />
