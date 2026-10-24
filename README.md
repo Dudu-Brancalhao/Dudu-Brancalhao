@@ -1,6 +1,6 @@
 ## Hey there, I'm **Eduardo Brancalhão** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" width="30" />
 
-<img align="right" src="./assets/me-macbook.png" width="250" alt="Eduardo with a MacBook" />
+<img align="right" src="./assets/me-macbook.png" width="220" alt="Eduardo with a MacBook" />
 
 I'm **Eduardo**, a software engineer from Brazil. Today I work at **Hubib**, mostly on backend systems that move real money.
 
@@ -10,11 +10,11 @@ I'm **Eduardo**, a software engineer from Brazil. Today I work at **Hubib**, mos
   <a href="mailto:duduscala@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Coin.png" width="20" /> Building **crypto wallets** and **prediction markets** with Node.js, TypeScript and PostgreSQL
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Video%20Camera.png" width="20" /> Built a **live traffic prediction market** end to end: camera feed, computer vision vehicle count, settlement
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="20" /> **AI-native**: spec first, then agents. Claude Code is my daily environment
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="20" /> In systems that move real money, **security and data integrity come first**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" width="20" /> Started in frontend (React, Next.js), now mostly backend
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Coin.png" width="20" /> Building **crypto wallets** and **prediction markets** with NestJS <br />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Video%20Camera.png" width="20" /> Built a **live traffic prediction market** with computer vision <br />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="20" /> **AI-native**: spec first, then agents, with Claude Code <br />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="20" /> **Security and data integrity first** when money is moving <br />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" width="20" /> Started in frontend (React, Next.js), now mostly backend
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,postgres,prisma,docker,python,react,nextjs,linux&theme=dark" alt="Node.js, NestJS, TypeScript, PostgreSQL, Prisma, Docker, Python, React, Next.js, Linux" />
